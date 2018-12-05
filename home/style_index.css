@@ -1,0 +1,16 @@
+body{
+  padding: 0px;
+  font-family: sans-serif;
+  background: url(74db1c3c5e24504c17aa5c74eef7cf86.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  z-index: 100;
+  overflow-x: hidden;
+  margin: 0;
+}
+
+.text{
+  color: #fff;
+}
