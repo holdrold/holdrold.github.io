@@ -29,6 +29,13 @@ body{
   top: 1%;
 }
 
+.holdroldlabspicture{
+  z-index: 2000;
+  position: absolute;
+  left: 11%;
+  top: 8%;
+}
+
 /* nav */
 
 .container {
