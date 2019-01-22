@@ -49,6 +49,7 @@ body{
 .topnav {
   overflow: hidden;
   border: 1px solid white;
+  background-color: #000;
 }
 
 .topnav a {
